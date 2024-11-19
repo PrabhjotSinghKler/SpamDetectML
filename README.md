@@ -1,5 +1,5 @@
 
-# Email Spam Detection with Machine Learning  
+# Email Spam Detection with Naive Bayes Classifier  
 
 This project implements an **email spam detection system** using a **Naive Bayes classifier**. It leverages machine learning techniques to classify emails as either "spam" or "ham" (non-spam), aiming to enhance email filtering systems for improved reliability and security.
 
